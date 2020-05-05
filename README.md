@@ -3,7 +3,7 @@ The  "Project Arduino Glasshouse" is a physical computing project combining natu
 
 Goal of the project is to support (un-)experienced teachers by providing the fundamental sources of an interdisciplinary school project using physical-computing. Furthermore teachers should be animated to develop own exercises and own projects on top of the provided sources. 
 
-This project was developed during the class "Physical-Computing-Projekte im Informatikunterricht" at the Humboldt-University of Berlin by Malte Kruse and Malte Lundschien. **The provided documentation and code blocks for *Snap4Arduino* are mostly in German language.**  Maybe there will be an English translation, if highly requested.
+This project was developed and <a href="https://www.informatik.hu-berlin.de/de/forschung/gebiete/cses/for_schools/materials/Arduino_Gewaechshaus.pdf">published</a> during the class "Physical-Computing-Projekte im Informatikunterricht" at the Humboldt-University of Berlin by Malte Kruse and Malte Lundschien. **The provided documentation and code blocks for *Snap4Arduino* are mostly in German language.**  Maybe there will be an English translation, if highly requested.
 
 &copy; 2018 Malte Lundschien and Malte Kruse. 
 
@@ -20,7 +20,7 @@ Das "Projekt Arduino Gewächshaus" ist ein Physical-Computing-Projekt, welches N
 
 Ziel des Projektes ist es, (un-)erfahrenen Lehrkräften die Grundlagen eines interdisziplinären Schulprojektes zum Thema Physical-Computing bereitzustellen. Zudem sollen die Lehrkräfte dazu angehalten werden, auf Basis des hier bereitgestellten Materials, eigene Aufgaben und Projekte zu entwickeln.
 
-Das Projekt wurde im Rahmen des Seminars "Physical-Computing-Projekte im Informatikunterricht" an der Humboldt-Universität zu Berlin von Malte Kruse und Malte Lundschien entwickelt. 
+Das Projekt wurde im Rahmen des Seminars "Physical-Computing-Projekte im Informatikunterricht" an der Humboldt-Universität zu Berlin von Malte Kruse und Malte Lundschien entwickelt und <a href="https://www.informatik.hu-berlin.de/de/forschung/gebiete/cses/for_schools/materials/Arduino_Gewaechshaus.pdf">veröffentlicht</a>. 
 
 &copy; 2018 Malte Lundschien and Malte Kruse. 
 
